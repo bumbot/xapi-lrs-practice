@@ -78,7 +78,7 @@ class Main extends Component {
                     "name": {"en-US": `${activity}`},
                     "description": {"en-US": `${activity}`}
                 },
-                "objectType": "Activity-"
+                "objectType": "Activity"
             }
         }
     }
