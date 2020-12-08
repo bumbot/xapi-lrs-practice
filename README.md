@@ -4,7 +4,7 @@ A basic react app to test out writing xAPI statements and LRS functionality. Use
 
 **Validated** statements can be viewed at http://adlnet.github.io/xapi-statement-viewer/
 
-Pulls cryptojs_v3.1.2.js & xapiwrapper.js from the xAPIWrapper library
+Pulls cryptojs_v3.1.2.js & xapiwrapper.js files from the xAPIWrapper library
 
 
 ***
